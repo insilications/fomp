@@ -1,0 +1,23 @@
+fomp (1.2.2) stable;
+
+  * Various minor code quality improvements
+
+ -- David Robillard <d@drobilla.net>  Thu, 07 Jan 2021 22:28:29 +0000
+
+fomp (1.2.0) stable;
+
+  * Add missing default values
+  * Add reverb and reverb_amb
+  * Adjust some control ranges and defaults to more sensible values
+  * Bump plugins to stable versions
+  * Fix a few misspelled port symbols (breaks state compatibility)
+  * Fix phaser plugin data and list phasers in manifest
+  * Remove invalid reference to old LADSPA pulse_vco binary
+
+ -- David Robillard <d@drobilla.net>  Sun, 10 Nov 2019 22:38:28 +0000
+
+fomp (1.0.0) stable;
+
+  * Initial release
+
+ -- David Robillard <d@drobilla.net>  Sat, 27 Oct 2012 20:54:00 +0000

@@ -1,5 +1,5 @@
 PKG_NAME := fomp
-URL = https://gitlab.com/drobilla/mda-lv2.git
+URL = https://gitlab.com/drobilla/fomp.git
 ARCHIVES = 
 ARCHIVES_GIT = 
 
